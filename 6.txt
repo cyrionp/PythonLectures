@@ -1,0 +1,18 @@
+age1=10
+age2=21
+if condition:
+    do something
+###
+if(age1==11) and (age2==20)
+    age1!=11 or age2!=15
+###
+if...:
+    elif...:
+else...:
+###
+a=['mushroom','apple']
+if 'mushroom' in a
+    a=[]
+if a:
+###
+
