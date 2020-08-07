@@ -1,5 +1,3 @@
 # PythonLectures
- 
-Tüm kod örnekleri ve sorular şu kurs yardımıyla yapılmıştır:
-
+# Resources
 https://www.udemy.com/course/python-dersleri
